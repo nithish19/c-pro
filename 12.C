@@ -2,12 +2,12 @@
 #include<conio.h>
 int main()
 {
-int a,i,n=0;
-scanf("%d",&a)
-for(i=0;i<=a;i++);
+int b,i,n=0;
+scanf("%d",&b)
+for(i=0;i<=b;i++);
 {
 n=n+i;
 }
-printf("%d,a);
+printf("%d,b);
 return o;
 }
